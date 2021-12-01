@@ -1,1 +1,1 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/fr8j86r/java.png" alt="java" border="0"></a> <a href="https://imgbb.com/"><img src="https://i.ibb.co/85bbgWM/postgresql.png" alt="postgresql" border="0"></a>
+![Görkem Sönmez](https://user-images.githubusercontent.com/90747281/144326856-1810a811-b88b-4ad2-b3fa-8f96d09e573a.gif)
