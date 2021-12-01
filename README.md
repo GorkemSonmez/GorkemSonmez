@@ -1,0 +1,1 @@
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fr8j86r/java.png" alt="java" border="0"></a> <a href="https://imgbb.com/"><img src="https://i.ibb.co/85bbgWM/postgresql.png" alt="postgresql" border="0"></a>
