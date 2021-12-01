@@ -1,1 +1,2 @@
-![Görkem Sönmez](https://user-images.githubusercontent.com/90747281/144326856-1810a811-b88b-4ad2-b3fa-8f96d09e573a.gif)
+
+![Görkem Sönmez](https://user-images.githubusercontent.com/90747281/144327451-2854626d-28e6-419b-b1a5-430253c1efc5.gif)
